@@ -5,5 +5,5 @@ Many small applications need to store user credentials, but it’s hard to creat
 
 For a small cloud project I ended up creating such a solution. The aim is to make a solution that works on the client using JavaScript.
 
-Demo: http://keestalkstechapps.azurewebsites.net/passwordgenerator/
+Demo: http://keestalkstechapps.azurewebsites.net/passwordgenerator/ <br/>
 Blog with explanation: http://keestalkstech.com/2015/09/login-credentials-generator-in-javascript/
