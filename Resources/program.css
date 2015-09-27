@@ -1,0 +1,29 @@
+﻿html, body {
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 1.5em;
+	background-color: white;
+}
+
+body.include {
+	padding:0;
+	margin:0;
+}
+
+
+label span {
+	width:100px;
+	display:inline-block;	
+}
+
+.value {
+	width:250px;
+	display:inline-block;
+	vertical-align:top;
+	word-wrap:break-word;
+	min-height:1.4em;
+}
+
+.row {
+	margin-bottom:1em;
+}
